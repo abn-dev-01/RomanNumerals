@@ -32,7 +32,7 @@ public class Converter {
                         result = result + (currentNumeral - firstNumeral);
                     } else {
                         // just remember current, no i++ need here
-                        result = result + firstNumeral ; // + currentNumeral;
+                        result = result + firstNumeral;
                     }
                 }
             } else {

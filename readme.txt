@@ -1,8 +1,6 @@
-- // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - // - //
 
-TASK :
+# Test TASK: Roman Numerals conversion
 
-Roman Numerals conversion
 Write a class to convert Roman Numerals to numbers. You should use an OOP programming paradigm
 with Test-driven development approach in order to cover your method with appropriate tests prior to
 implementing them.
